@@ -1,0 +1,6 @@
+person
+bird
+cat
+dog
+cow
+elephant
