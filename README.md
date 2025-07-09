@@ -30,18 +30,10 @@ pip install opencv-python playsound numpy
 
 
 **Directory Structure**
-.
-├── main.py                     # Main detection and alert script
-├── gsm2.py                     # GSM module handler (alert and SMS functions)
-├── music/                      # Folder containing alert sounds
-│   ├── elephant.mp3
-│   ├── bird.mp3
-│   ├── person.mp3
-│   └── ...
-├── assets/
-│   └── coco_labels.txt         # Label list
 
 
+
+![Screenshot 2025-07-09 123102](https://github.com/user-attachments/assets/f280f271-2b7a-40f9-89de-9a0fd4c7ea9c)
 
 
 
